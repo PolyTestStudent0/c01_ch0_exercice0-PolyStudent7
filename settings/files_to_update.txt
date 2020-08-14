@@ -1,0 +1,9 @@
+.github/workflows/exercise.yml
+_exercice_version_prof.py
+data/sample_countries.txt
+instructions.md
+README.md
+test_exercice.py
+settings/files_to_update.txt
+settings/test_associations.json
+settings/variables.txt
